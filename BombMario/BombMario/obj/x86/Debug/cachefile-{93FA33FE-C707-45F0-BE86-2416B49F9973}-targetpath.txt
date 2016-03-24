@@ -1,0 +1,4 @@
+Content\plane.xnb
+Content\desert1.xnb
+Content\infantry_talking.xnb
+Content\infantry_running.xnb
